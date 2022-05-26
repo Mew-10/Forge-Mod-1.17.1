@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "forgemod:block/redwood_sapling"
+  }
+}

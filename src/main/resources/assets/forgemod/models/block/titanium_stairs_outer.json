@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "forgemod:block/titanium_block",
+    "top": "forgemod:block/titanium_block",
+    "side": "forgemod:block/titanium_block"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "item.forgemod.titanium_ingot": "Titanium Ingot",
+  "item.forgemod.titanium_nugget": "Titanium Nugget",
+  "item.forgemod.raw_titanium": "Raw Titanium",
+  "item.forgemod.tomato": "Tomato",
+  "item.forgemod.smart_blow_torch": "Smart Blow Torch",
+  "item.forgemod.coal_coke": "Coal Coke",
+
+
+  "block.forgemod.titanium_stairs": "Titanium Stairs",
+  "block.forgemod.titanium_fence": "Titanium Fence",
+  "block.forgemod.titanium_fence_gate": "Titanium Fence Gate",
+  "block.forgemod.titanium_slab": "Titanium Slab",
+  "block.forgemod.titanium_wall": "Titanium Wall",
+  "block.forgemod.titanium_button": "Titanium Button",
+  "block.forgemod.titanium_pressure_plate": "Titanium Pressure Plate",
+  "block.forgemod.titanium_door": "Titanium Door",
+  "block.forgemod.titanium_trapdoor": "Titanium TrapDoor",
+
+  "block.forgemod.titanium_block": "Titanium Block",
+  "block.forgemod.titanium_ore": "Titanium Ore",
+  "block.forgemod.speedy_block": "Speedy Block",
+  "block.forgemod.test_block": "Test Block",
+
+  "item.forgemod.tomato_seeds": "Tomato Seeds",
+  "block.forgemod.tomato_plant": "Tomato Plant",
+  "block.forgemod.orchid": "Orchid",
+
+  "block.forgemod.redwood_log": "Redwood Log",
+  "block.forgemod.redwood_planks": "Redwood Planks",
+  "block.forgemod.redwood_wood": "Redwood Wood",
+  "block.forgemod.stripped_redwood_log": "Stripped Redwood Log",
+  "block.forgemod.stripped_redwood_wood": "Stripped Redwood Wood",
+
+  "block.forgemod.redwood_sapling": "Redwood Sapling",
+  "block.forgemod.redwood_leaves": "Redwood Leaves",
+
+  "item.forgemod.titanium_sword": "Titanium Sword",
+  "item.forgemod.titanium_shovel": "Titanium Shovel",
+  "item.forgemod.titanium_axe": "Titanium Axe",
+  "item.forgemod.titanium_pickaxe": "Titanium Pickaxe",
+  "item.forgemod.titanium_hoe": "Titanium Hoe",
+  "item.forgemod.titanium_horse_armor": "Titanium Horse Armor",
+
+  "enchantment.forgemod.lightning_striker": "Lightning Striker",
+
+  "item.forgemod.titanium_helmet": "Titanium Helmet",
+  "item.forgemod.titanium_chestplate": "Titanium Chestplate",
+  "item.forgemod.titanium_leggings": "Titanium Leggings",
+  "item.forgemod.titanium_boots": "Titanium Boots",
+
+  "tooltip.forgemod.blowtorch_shift": "Hold \u00A7eSHIFT\u00A7r for more Information!",
+  "tooltip.forgemod.blowtorch": "Click a Block and see if you can blow torch it into a different Item!",
+  "tooltip.block.forgemod.titanium_block": "A hardened metal Block, almost impossible to break!",
+
+  "itemGroup.mytab": "ModIng Tab"
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "clicked=false": { "model": "forgemod:block/test_block_normal" },
+    "clicked=true": { "model": "forgemod:block/test_block_clicked" }
+  }
+}
